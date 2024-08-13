@@ -4,7 +4,7 @@
   You can contact me on <a href='[https://discord.gg/EKQtnY8Z9h](https://www.youtube.com/watch?v=dQw4w9WgXcQ)'>Discord
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Touch+some+grass.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Life+is+pain+.....+isn't+it.)](https://git.io/typing-svg)
 
 
 ![Masterofnoothing](https://github-readme-stats.vercel.app/api?username=Masterofnoothing&show_icons=true&theme=tokyonight&hide=["issues"])
