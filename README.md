@@ -10,6 +10,8 @@
 ![Masterofnoothing](https://github-readme-stats.vercel.app/api?username=Masterofnoothing&show_icons=true&theme=tokyonight&hide=["issues"])
 
 ![Masterofnoothing](https://github-readme-stats.vercel.app/api/top-langs?username=Masterofnoothing&show_icons=true&theme=tokyonight&layout=compact)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/Masterofnoothing)
 <!--
 **Masterofnoothing/Masterofnoothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
