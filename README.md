@@ -1,25 +1,49 @@
-<h1 align="left">Hello.....</h1>
+# Hey, I'm Masterofnoothing 👋
 
+Full-stack developer focused on building scalable backend systems, automation tools, and distributed infrastructure.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Never+Gonna+Give+You+Up)](https://git.io/typing-svg)
+## What I Work On
+- Distributed proxy infrastructure
+- Backend API development
+- Full-stack web applications
+- Automation & bot development
+- Caching systems
+- Cloud deployment & DevOps workflows
 
+## Tech Stack
 
-![Masterofnoothing](https://github-readme-stats.vercel.app/api?username=Masterofnoothing&show_icons=true&theme=tokyonight&hide=["issues"])
+### Backend
+- Python
+- FastAPI
+- C#
+- Redis
+- MongoDB
+- MariaDB
+- REST APIs
 
-![Masterofnoothing](https://github-readme-stats.vercel.app/api/top-langs?username=Masterofnoothing&show_icons=true&theme=tokyonight&layout=compact)
+### DevOps / Infra
+- Docker
+- Nginx
+- GitHub Actions
+- Linux
+- CI/CD pipelines
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/Masterofnoothing)
-<!--
-**Masterofnoothing/Masterofnoothing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Automation
+- Web automation
+- Bots
+- Workflow optimization
 
-Here are some ideas to get you started:
+## Currently Learning
+- Open GL
+- Rust
+- RL
+- Distributed systems at larger scale  
+- Infrastructure optimization  
+- Advanced automation workflows  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Things I Care About
+- Performance optimization  
+- Scalable architecture  
+- Clean backend design  
+- Building fast  
+- Automating repetitive work  
